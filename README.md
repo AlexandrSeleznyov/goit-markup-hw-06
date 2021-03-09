@@ -1,2 +1,2 @@
-# 06
-DZ6
+# goit-markup-hw-05
+DZ5
